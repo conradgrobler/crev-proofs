@@ -1,3 +1,3 @@
-# Template of [Crev Proof Repository](https://github.com/crev-dev/crev/wiki/Proof-Repository)
+# Conrad Grobler's [Crev Proof Repository](https://github.com/crev-dev/crev/wiki/Proof-Repository)
 
-[Fork](https://github.com/crev-dev/crev-proofs/fork) this repo to create your own, empty Proof Repository.
+Forked from the [crev-proofs template](https://github.com/crev-dev/crev-proofs/fork).
