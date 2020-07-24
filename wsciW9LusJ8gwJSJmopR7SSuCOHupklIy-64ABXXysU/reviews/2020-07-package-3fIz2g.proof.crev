@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-24T14:54:52.305389208+01:00"
+from:
+  id-type: crev
+  id: wsciW9LusJ8gwJSJmopR7SSuCOHupklIy-64ABXXysU
+  url: "https://github.com/conradgrobler/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: maplit
+  version: 1.0.2
+  revision: 04936f703da907bc4ffdaced121e4cfd5ecbaec6
+  digest: 1db2lgOARGPHX_YwsVZB6kVOsVQ1eYQPEQSYVWF5LDI
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Well documented, no unsafe code, no dependencies.
+----- SIGN CREV PROOF -----
+c7FpHDqITKzXmAbj8GY5CMoxiMtJV0mn6K6BIxO0FXgZ8-Zhuzy3no7IkZSyUV8Hj6eTFWBwVSLmvscMb4R_Dg
+----- END CREV PROOF -----
+
