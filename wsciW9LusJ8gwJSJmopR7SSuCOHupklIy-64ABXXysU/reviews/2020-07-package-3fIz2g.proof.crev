@@ -22,3 +22,27 @@ comment: |-
 c7FpHDqITKzXmAbj8GY5CMoxiMtJV0mn6K6BIxO0FXgZ8-Zhuzy3no7IkZSyUV8Hj6eTFWBwVSLmvscMb4R_Dg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-24T15:09:02.172641938+01:00"
+from:
+  id-type: crev
+  id: wsciW9LusJ8gwJSJmopR7SSuCOHupklIy-64ABXXysU
+  url: "https://github.com/conradgrobler/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wat
+  version: 1.0.19
+  revision: bd2fefb0c3174be10ab35468e53df264aa1fac2b
+  digest: aikCDLdOKFpuEPcBNDPXuWyAuP6NvsjDXrD0m014ag8
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Small code base, well documented, no unsafe code. Depends on `wast`.
+----- SIGN CREV PROOF -----
+WwVJ5uJEaskDRm_-FmE5feUG1wyPt8qVM7ophEpjdXwsRddTm0xuuqWOlKu-uqgyJMZ6ZcrDbZid53SSIVtSAA
+----- END CREV PROOF -----
+
