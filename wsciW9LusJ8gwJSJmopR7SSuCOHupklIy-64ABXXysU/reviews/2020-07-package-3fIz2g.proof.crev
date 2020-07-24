@@ -46,3 +46,27 @@ comment: |-
 WwVJ5uJEaskDRm_-FmE5feUG1wyPt8qVM7ophEpjdXwsRddTm0xuuqWOlKu-uqgyJMZ6ZcrDbZid53SSIVtSAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-24T15:23:10.740062305+01:00"
+from:
+  id-type: crev
+  id: wsciW9LusJ8gwJSJmopR7SSuCOHupklIy-64ABXXysU
+  url: "https://github.com/conradgrobler/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: structopt
+  version: 0.3.15
+  revision: b1174e5c9c0001386d7c0ca5e106f606d955eed1
+  digest: 50KuzIad8syZuHCwkUY2v1WTPDRNyVlcQBLNEChFqLQ
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: strong
+comment: |-
+  Small crate that relies on `clap`. No unsafe code. Lots of tests.
+----- SIGN CREV PROOF -----
+SZXIDc46LFuCbwxgPWOXY6sxIvB6KvIwviP7SGzp-YuxZE-ezRTZRw8F8c0I1wAPh0EplvYgKbDZAVsPBa1NAQ
+----- END CREV PROOF -----
+
