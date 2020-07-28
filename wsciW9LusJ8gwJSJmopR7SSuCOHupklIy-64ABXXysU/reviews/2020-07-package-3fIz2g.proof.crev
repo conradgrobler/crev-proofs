@@ -118,3 +118,27 @@ comment: |-
 WkF1JMhUnDi7pBMMEz9ly62EUcmpMzsYLiYEsJ-QXBN_jUlrA4zyx0w1cIn0A-llZos7tALJu1HSpn8qomjhBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-28T16:33:35.814825190+01:00"
+from:
+  id-type: crev
+  id: wsciW9LusJ8gwJSJmopR7SSuCOHupklIy-64ABXXysU
+  url: "https://github.com/conradgrobler/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: termcolor
+  version: 1.1.0
+  revision: 1679b36fa77be176e9d4ca9e7278be16bc0c7de5
+  digest: pYJfr_4BZRJi9rYTPUV05IMbmPOUg3IJNk9NN4l9kww
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  No unsafe code.
+----- SIGN CREV PROOF -----
+SHsiFRQY5guZ-nsQMST_ddYT0rUjJbXRMZ-Ya_GjZnnOcX0pH6m-nCB--xOsMd9SBrwmMqAs54XtA-5Jh6mCAg
+----- END CREV PROOF -----
+
