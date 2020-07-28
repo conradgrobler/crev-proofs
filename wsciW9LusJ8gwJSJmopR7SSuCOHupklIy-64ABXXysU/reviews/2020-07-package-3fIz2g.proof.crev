@@ -70,3 +70,27 @@ comment: |-
 SZXIDc46LFuCbwxgPWOXY6sxIvB6KvIwviP7SGzp-YuxZE-ezRTZRw8F8c0I1wAPh0EplvYgKbDZAVsPBa1NAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-28T15:50:58.192404072+01:00"
+from:
+  id-type: crev
+  id: wsciW9LusJ8gwJSJmopR7SSuCOHupklIy-64ABXXysU
+  url: "https://github.com/conradgrobler/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: jsonwebtoken
+  version: 7.1.2
+  revision: 952d34c139c23b8dbc3277a7a239b6359c70c5dd
+  digest: LTJ5rCSaZxXCtn0d2iGZuWIQJpYhcds-nBkYAHOjZUM
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  No unsafe code. Passively maintained.
+----- SIGN CREV PROOF -----
+N17JA03zwvBjmsQKPty--o8QfOqesFxQBW0aq7OfZezhCZIJ-Ng0eQaBZ2vlvaJwsxtI5YzOY7iqz6D7hQVXDw
+----- END CREV PROOF -----
+
